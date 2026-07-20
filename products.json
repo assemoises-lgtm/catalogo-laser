@@ -1,0 +1,21 @@
+{
+  "config": {
+    "nombre": "TALLER LÁSER",
+    "tagline": "Corte y grabado láser · Piezas personalizadas hechas en México",
+    "whatsapp": "521XXXXXXXXXX",
+    "mensaje": "¡Hola! Me interesa el producto {nombre} (SKU {sku}). ¿Me das más información?",
+    "moneda": "MXN"
+  },
+  "productos": [
+    {
+      "sku": "LSR-001",
+      "nombre": "Repisa Organizadora para Hojas de Color Tamaño Carta – 10 Espacios",
+      "categoria": "Organizadores y Exhibidores",
+      "precio": 231,
+      "descripcion": "Repisa en MDF de 3mm con 10 divisiones para organizar hojas de color tamaño carta. Armada y lista para usar. También disponible en piezas para armar tú mismo por $197 MXN — pregunta por WhatsApp.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-001.jpg"
+    }
+  ]
+}
