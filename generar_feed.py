@@ -7,7 +7,7 @@ Uso: python3 generar_feed.py [URL_BASE]
 """
 import csv, json, sys
 
-BASE = (sys.argv[1] if len(sys.argv) > 1 else "https://USUARIO.github.io/catalogo-laser").rstrip("/")
+BASE = (sys.argv[1] if len(sys.argv) > 1 else "https://assemoises-lgtm.github.io/catalogo-laser").rstrip("/")
 
 with open("products.json", encoding="utf-8") as f:
     data = json.load(f)
