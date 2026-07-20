@@ -15,7 +15,8 @@
       "descripcion": "Repisa en MDF de 3mm con 10 divisiones para organizar hojas de color tamaño carta. Armada y lista para usar. También disponible en piezas para armar tú mismo por $197 MXN — pregunta por WhatsApp.",
       "material": "MDF 3mm",
       "personalizable": false,
-      "imagen": "img/LSR-001.jpg"
+      "imagen": "img/LSR-001.jpg",
+      "imagenes": ["img/LSR-001.jpg", "img/LSR-001-02.jpg", "img/LSR-001-03.jpg"]
     }
   ]
 }

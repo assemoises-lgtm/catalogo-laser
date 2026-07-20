@@ -145,6 +145,15 @@
     font-family:'Space Mono',monospace;font-size:.62rem;color:var(--quemado);
     letter-spacing:.1em;text-transform:uppercase;
   }
+  .miniaturas{display:flex;gap:6px}
+  .mini{
+    flex:1;aspect-ratio:1/1;padding:0;border-radius:var(--radio);
+    border:1.5px solid var(--linea);background:none;cursor:pointer;overflow:hidden;
+  }
+  .mini img{width:100%;height:100%;object-fit:cover;display:block;opacity:.6}
+  .mini[aria-current="true"]{border-color:var(--laser)}
+  .mini[aria-current="true"] img{opacity:1}
+  .mini:focus-visible{outline:2px solid var(--laser);outline-offset:2px}
   .pieza .sku-linea{
     display:flex;justify-content:space-between;align-items:center;
     font-family:'Space Mono',monospace;font-size:.64rem;color:var(--quemado);
@@ -269,13 +278,18 @@ function pintar(){
     grid.innerHTML = '<p class="vacio">Sin piezas en esta categoría todavía.</p>';
     return;
   }
-  grid.innerHTML = lista.map(p => `
+  grid.innerHTML = lista.map(p => {
+    const imgs = (p.imagenes && p.imagenes.length) ? p.imagenes : [p.imagen];
+    return `
     <article class="pieza">
       <span class="reg" aria-hidden="true"></span>
       <div class="foto">
-        <img src="${p.imagen}" alt="${p.nombre}" loading="lazy"
+        <img src="${imgs[0]}" alt="${p.nombre}" loading="lazy"
              onerror="this.remove();this.parentElement.insertAdjacentHTML('beforeend','<span class=&quot;sin-foto&quot;>FOTO PRÓXIMAMENTE</span>')">
       </div>
+      ${imgs.length > 1 ? `<div class="miniaturas">
+        ${imgs.map((src,i) => `<button type="button" class="mini" data-src="${src}" aria-current="${i===0}" aria-label="Ver foto ${i+1} de ${p.nombre}"><img src="${src}" loading="lazy"></button>`).join('')}
+      </div>` : ''}
       <div class="sku-linea">
         <span>SKU ${p.sku}</span>
         ${p.personalizable ? '<span class="badge">PERSONALIZABLE</span>' : ''}
@@ -290,7 +304,16 @@ function pintar(){
         ${WA_SVG} Pedir por WhatsApp
       </a>
     </article>
-  `).join('');
+  `;
+  }).join('');
+
+  grid.querySelectorAll('.mini').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const foto = btn.closest('.pieza').querySelector('.foto img');
+      if(foto) foto.src = btn.dataset.src;
+      btn.parentElement.querySelectorAll('.mini').forEach(m => m.setAttribute('aria-current', m===btn));
+    });
+  });
 }
 </script>
 </body>
