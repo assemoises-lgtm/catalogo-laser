@@ -27,7 +27,7 @@
       "nombre": "Organizador de Escritorio con Charolas y Porta Documentos",
       "categoria": "Organizadores y Exhibidores",
       "precio": 157,
-      "descripcion": "Organizador de escritorio en MDF de 3mm con charolas escalonadas y porta documentos. Corte y ensamble a láser, hecho en México.",
+      "descripcion": "Organizador de escritorio con charolas escalonadas y porta documentos, para mantener papeles, notas y objetos de oficina ordenados. Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-002.jpg",
@@ -40,7 +40,7 @@
       "nombre": "Portalápices Apilable 3 Niveles",
       "categoria": "Escritorio",
       "precio": 95,
-      "descripcion": "Portalápices de 3 niveles perforados en MDF de 3mm, apilables y unidos con herraje metálico. Incluye tornillos y mariposas.",
+      "descripcion": "Portalápices de 3 niveles perforados, para organizar plumas, lápices y marcadores en escritorios u oficinas. Apilable, unido con tornillos y mariposas metálicas. Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-003.jpg",
@@ -53,7 +53,7 @@
       "nombre": "Porta Vinilos y Rollos con Organizador de Accesorios",
       "categoria": "Manualidades y Hobby",
       "precio": 453,
-      "descripcion": "Organizador para rollos de vinil con compartimentos divisores para accesorios. Fabricado en MDF de 3mm, corte y ensamble a láser.",
+      "descripcion": "Organizador para rollos de vinil con compartimentos para accesorios, pensado para talleres de corte y grabado. Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-004.jpg",
@@ -66,12 +66,14 @@
       "nombre": "Bailarines",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Bailarines. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Bailarines — servilletero decorativo con forma de bailarina, para sostener servilletas de papel dobladas en la mesa, como centro de mesa en fiestas o el día a día. Medidas aproximadas pendientes de confirmar. Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-009.jpg",
       "imagenes": [
-        "img/LSR-009.jpg"
+        "img/LSR-009.jpg",
+        "img/LSR-009-02.jpg",
+        "img/LSR-009-03.jpg"
       ]
     },
     {
@@ -79,12 +81,14 @@
       "nombre": "Bailarín",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Bailarín. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Bailarín — servilletero decorativo con forma de bailarina, para sostener servilletas de papel dobladas en la mesa, como centro de mesa en fiestas o el día a día. Medidas aproximadas: 25 x 29 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-010.jpg",
       "imagenes": [
-        "img/LSR-010.jpg"
+        "img/LSR-010.jpg",
+        "img/LSR-010-02.jpg",
+        "img/LSR-010-03.jpg"
       ]
     },
     {
@@ -92,12 +96,14 @@
       "nombre": "Bailarín",
       "categoria": "Servilleteros",
       "precio": 53,
-      "descripcion": "Bailarín. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Bailarín — servilletero decorativo con forma de bailarina, para sostener servilletas de papel dobladas en la mesa, como centro de mesa en fiestas o el día a día. Medidas aproximadas: 35 x 38 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-011.jpg",
       "imagenes": [
-        "img/LSR-011.jpg"
+        "img/LSR-011.jpg",
+        "img/LSR-011-02.jpg",
+        "img/LSR-011-03.jpg"
       ]
     },
     {
@@ -105,12 +111,14 @@
       "nombre": "Balancearce",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Balancearce. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Balancearce — mini columpio/balancín decorativo, adorno de mesa para fiestas infantiles. Medidas aproximadas: 26 x 16 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-012.jpg",
       "imagenes": [
-        "img/LSR-012.jpg"
+        "img/LSR-012.jpg",
+        "img/LSR-012-02.jpg",
+        "img/LSR-012-03.jpg"
       ]
     },
     {
@@ -118,12 +126,14 @@
       "nombre": "Base de caramelo",
       "categoria": "Eventos y Fiestas",
       "precio": 155,
-      "descripcion": "Base de caramelo. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Base de caramelo — base/soporte para dulces y golosinas, para armar una mesa de dulces (candy bar) en fiestas y cumpleaños. Medidas aproximadas: 97 x 116 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-015.jpg",
       "imagenes": [
-        "img/LSR-015.jpg"
+        "img/LSR-015.jpg",
+        "img/LSR-015-02.jpg",
+        "img/LSR-015-03.jpg"
       ]
     },
     {
@@ -131,12 +141,14 @@
       "nombre": "Carousel",
       "categoria": "Servilleteros",
       "precio": 98,
-      "descripcion": "Carousel. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Carousel — carrusel decorativo en miniatura, adorno o centro de mesa para fiestas infantiles y cumpleaños. Medidas aproximadas: 100 x 97 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-016.jpg",
       "imagenes": [
-        "img/LSR-016.jpg"
+        "img/LSR-016.jpg",
+        "img/LSR-016-02.jpg",
+        "img/LSR-016-03.jpg"
       ]
     },
     {
@@ -144,12 +156,14 @@
       "nombre": "Carro",
       "categoria": "Eventos y Fiestas",
       "precio": 313,
-      "descripcion": "Carro. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Carro — carruaje/carrito decorativo, centro de mesa o pieza decorativa para bodas, XV años y eventos temáticos. Medidas aproximadas pendientes de confirmar. Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-017.jpg",
       "imagenes": [
-        "img/LSR-017.jpg"
+        "img/LSR-017.jpg",
+        "img/LSR-017-02.jpg",
+        "img/LSR-017-03.jpg"
       ]
     },
     {
@@ -157,12 +171,14 @@
       "nombre": "Carro",
       "categoria": "Eventos y Fiestas",
       "precio": 207,
-      "descripcion": "Carro. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Carro — carruaje/carrito decorativo, centro de mesa o pieza decorativa para bodas, XV años y eventos temáticos. Medidas aproximadas: 101 x 129 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-018.jpg",
       "imagenes": [
-        "img/LSR-018.jpg"
+        "img/LSR-018.jpg",
+        "img/LSR-018-02.jpg",
+        "img/LSR-018-03.jpg"
       ]
     },
     {
@@ -170,12 +186,14 @@
       "nombre": "Carro",
       "categoria": "Eventos y Fiestas",
       "precio": 200,
-      "descripcion": "Carro. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Carro — carruaje/carrito decorativo, centro de mesa o pieza decorativa para bodas, XV años y eventos temáticos. Medidas aproximadas: 104 x 138 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-019.jpg",
       "imagenes": [
-        "img/LSR-019.jpg"
+        "img/LSR-019.jpg",
+        "img/LSR-019-02.jpg",
+        "img/LSR-019-03.jpg"
       ]
     },
     {
@@ -183,12 +201,14 @@
       "nombre": "Carro con caballo",
       "categoria": "Eventos y Fiestas",
       "precio": 194,
-      "descripcion": "Carro con caballo. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Carro con caballo — carruaje/carrito decorativo, centro de mesa o pieza decorativa para bodas, XV años y eventos temáticos. Medidas aproximadas: 126 x 102 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-020.jpg",
       "imagenes": [
-        "img/LSR-020.jpg"
+        "img/LSR-020.jpg",
+        "img/LSR-020-02.jpg",
+        "img/LSR-020-03.jpg"
       ]
     },
     {
@@ -196,12 +216,14 @@
       "nombre": "Costura y vestido",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Costura y vestido. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Costura y vestido — servilletero decorativo con forma de figura elegante, para sostener servilletas de papel dobladas, centro de mesa para eventos o uso diario. Medidas aproximadas: 71 x 38 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-023.jpg",
       "imagenes": [
-        "img/LSR-023.jpg"
+        "img/LSR-023.jpg",
+        "img/LSR-023-02.jpg",
+        "img/LSR-023-03.jpg"
       ]
     },
     {
@@ -209,12 +231,14 @@
       "nombre": "Cupcake tower",
       "categoria": "Eventos y Fiestas",
       "precio": 50,
-      "descripcion": "Cupcake tower. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Cupcake tower — torre/soporte para cupcakes, para exhibir cupcakes en fiestas, cumpleaños y bodas. Medidas aproximadas: 75 x 70 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-024.jpg",
       "imagenes": [
-        "img/LSR-024.jpg"
+        "img/LSR-024.jpg",
+        "img/LSR-024-02.jpg",
+        "img/LSR-024-03.jpg"
       ]
     },
     {
@@ -222,12 +246,14 @@
       "nombre": "Enamorados",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Enamorados. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Enamorados — servilletero decorativo de pareja/corazón, pieza de mesa para bodas, aniversarios o cenas románticas, sostiene servilletas de papel dobladas. Medidas aproximadas: 67 x 58 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-025.jpg",
       "imagenes": [
-        "img/LSR-025.jpg"
+        "img/LSR-025.jpg",
+        "img/LSR-025-02.jpg",
+        "img/LSR-025-03.jpg"
       ]
     },
     {
@@ -235,12 +261,14 @@
       "nombre": "Enamorados",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Enamorados. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Enamorados — servilletero decorativo de pareja/corazón, pieza de mesa para bodas, aniversarios o cenas románticas, sostiene servilletas de papel dobladas. Medidas aproximadas: 38 x 36 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-026.jpg",
       "imagenes": [
-        "img/LSR-026.jpg"
+        "img/LSR-026.jpg",
+        "img/LSR-026-02.jpg",
+        "img/LSR-026-03.jpg"
       ]
     },
     {
@@ -248,12 +276,14 @@
       "nombre": "Hada",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Hada. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Hada — servilletero decorativo con forma de hada, para sostener servilletas de papel dobladas en la mesa, decoración temática infantil o de fantasía. Medidas aproximadas: 30 x 54 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-028.jpg",
       "imagenes": [
-        "img/LSR-028.jpg"
+        "img/LSR-028.jpg",
+        "img/LSR-028-02.jpg",
+        "img/LSR-028-03.jpg"
       ]
     },
     {
@@ -261,12 +291,14 @@
       "nombre": "Mujer",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Mujer. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Mujer — servilletero decorativo con forma de figura femenina, para sostener servilletas de papel dobladas, ideal como centro de mesa en comedores, cafeterías o eventos. Medidas aproximadas: 61 x 50 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-030.jpg",
       "imagenes": [
-        "img/LSR-030.jpg"
+        "img/LSR-030.jpg",
+        "img/LSR-030-02.jpg",
+        "img/LSR-030-03.jpg"
       ]
     },
     {
@@ -274,12 +306,14 @@
       "nombre": "Mujer torre eiffel",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Mujer torre eiffel. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Mujer torre eiffel — servilletero decorativo con forma de figura femenina, para sostener servilletas de papel dobladas, ideal como centro de mesa en comedores, cafeterías o eventos. Medidas aproximadas: 46 x 37 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-031.jpg",
       "imagenes": [
-        "img/LSR-031.jpg"
+        "img/LSR-031.jpg",
+        "img/LSR-031-02.jpg",
+        "img/LSR-031-03.jpg"
       ]
     },
     {
@@ -287,12 +321,14 @@
       "nombre": "Nina",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Nina. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Nina — servilletero decorativo con forma de figura femenina, para sostener servilletas de papel dobladas, ideal como centro de mesa en comedores, cafeterías o eventos. Medidas aproximadas: 27 x 47 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-033.jpg",
       "imagenes": [
-        "img/LSR-033.jpg"
+        "img/LSR-033.jpg",
+        "img/LSR-033-02.jpg",
+        "img/LSR-033-03.jpg"
       ]
     },
     {
@@ -300,12 +336,14 @@
       "nombre": "Porta caramelo",
       "categoria": "Eventos y Fiestas",
       "precio": 64,
-      "descripcion": "Porta caramelo. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Porta caramelo — base/soporte para dulces y golosinas, para armar una mesa de dulces (candy bar) en fiestas y cumpleaños. Medidas aproximadas: 98 x 70 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-034.jpg",
       "imagenes": [
-        "img/LSR-034.jpg"
+        "img/LSR-034.jpg",
+        "img/LSR-034-02.jpg",
+        "img/LSR-034-03.jpg"
       ]
     },
     {
@@ -313,12 +351,14 @@
       "nombre": "Porta cupcakes",
       "categoria": "Eventos y Fiestas",
       "precio": 169,
-      "descripcion": "Porta cupcakes. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Porta cupcakes — torre/soporte para cupcakes, para exhibir cupcakes en fiestas, cumpleaños y bodas. Medidas aproximadas: 98 x 66 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-035.jpg",
       "imagenes": [
-        "img/LSR-035.jpg"
+        "img/LSR-035.jpg",
+        "img/LSR-035-02.jpg",
+        "img/LSR-035-03.jpg"
       ]
     },
     {
@@ -326,12 +366,14 @@
       "nombre": "Propuesta matrimonio",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Propuesta matrimonio. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Propuesta matrimonio — servilletero decorativo de pareja/corazón, pieza de mesa para bodas, aniversarios o cenas románticas, sostiene servilletas de papel dobladas. Medidas aproximadas pendientes de confirmar. Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-036.jpg",
       "imagenes": [
-        "img/LSR-036.jpg"
+        "img/LSR-036.jpg",
+        "img/LSR-036-02.jpg",
+        "img/LSR-036-03.jpg"
       ]
     },
     {
@@ -339,12 +381,14 @@
       "nombre": "Stand caramelo",
       "categoria": "Eventos y Fiestas",
       "precio": 176,
-      "descripcion": "Stand caramelo. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Stand caramelo — base/soporte para dulces y golosinas, para armar una mesa de dulces (candy bar) en fiestas y cumpleaños. Medidas aproximadas pendientes de confirmar. Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-039.jpg",
       "imagenes": [
-        "img/LSR-039.jpg"
+        "img/LSR-039.jpg",
+        "img/LSR-039-02.jpg",
+        "img/LSR-039-03.jpg"
       ]
     },
     {
@@ -352,12 +396,14 @@
       "nombre": "Vaca",
       "categoria": "Servilleteros",
       "precio": 50,
-      "descripcion": "Vaca. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Vaca — servilletero decorativo con forma de personaje/animal, para sostener servilletas de papel dobladas, decoración de mesa infantil o temática. Medidas aproximadas: 38 x 58 cm (ancho x alto). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-041.jpg",
       "imagenes": [
-        "img/LSR-041.jpg"
+        "img/LSR-041.jpg",
+        "img/LSR-041-02.jpg",
+        "img/LSR-041-03.jpg"
       ]
     },
     {
@@ -365,12 +411,14 @@
       "nombre": "Carro de Mesa de Dulces",
       "categoria": "Eventos y Fiestas",
       "precio": 368,
-      "descripcion": "Carro decorativo de mesa de dulces (candy cart). Corte laser en MDF de 3mm, hecho en Mexico. Precio estimado, pendiente de confirmar medidas exactas.",
+      "descripcion": "Carro de Mesa de Dulces — carro/carreta decorativa para armar una mesa de dulces (candy bar) en fiestas y cumpleaños. Medidas aproximadas pendientes de confirmar. Corte láser en MDF de 3mm, hecho en México. Precio estimado, pendiente de confirmar medidas exactas.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-005.jpg",
       "imagenes": [
-        "img/LSR-005.jpg"
+        "img/LSR-005.jpg",
+        "img/LSR-005-02.jpg",
+        "img/LSR-005-03.jpg"
       ]
     },
     {
@@ -378,12 +426,14 @@
       "nombre": "Carrito Decorativo con Ruedas",
       "categoria": "Eventos y Fiestas",
       "precio": 186,
-      "descripcion": "Mini carreta decorativa con ruedas y compartimentos. Corte laser en MDF de 3mm, hecho en Mexico. Precio estimado, pendiente de confirmar medidas exactas.",
+      "descripcion": "Carrito Decorativo con Ruedas — mini carreta decorativa con compartimentos, para exhibir dulces o detalles en fiestas. Medidas aproximadas pendientes de confirmar. Corte láser en MDF de 3mm, hecho en México. Precio estimado, pendiente de confirmar medidas exactas.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-006.jpg",
       "imagenes": [
-        "img/LSR-006.jpg"
+        "img/LSR-006.jpg",
+        "img/LSR-006-02.jpg",
+        "img/LSR-006-03.jpg"
       ]
     },
     {
@@ -391,7 +441,7 @@
       "nombre": "Portalapices 2 Niveles",
       "categoria": "Escritorio",
       "precio": 50,
-      "descripcion": "Portalapices de 2 niveles con ranuras. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "descripcion": "Portalápices 2 Niveles — organizador de escritorio con ranuras para lápices y plumas. Medidas aproximadas: 32 x 24 cm (ancho x profundo). Corte láser en MDF de 3mm, hecho en México.",
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/no-existe-aun.jpg",
