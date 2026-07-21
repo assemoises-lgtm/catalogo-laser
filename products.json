@@ -16,7 +16,11 @@
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-001.jpg",
-      "imagenes": ["img/LSR-001.jpg", "img/LSR-001-02.jpg", "img/LSR-001-03.jpg"]
+      "imagenes": [
+        "img/LSR-001.jpg",
+        "img/LSR-001-02.jpg",
+        "img/LSR-001-03.jpg"
+      ]
     },
     {
       "sku": "LSR-002",
@@ -27,7 +31,9 @@
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-002.jpg",
-      "imagenes": ["img/LSR-002.jpg"]
+      "imagenes": [
+        "img/LSR-002.jpg"
+      ]
     },
     {
       "sku": "LSR-003",
@@ -38,7 +44,9 @@
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-003.jpg",
-      "imagenes": ["img/LSR-003.jpg"]
+      "imagenes": [
+        "img/LSR-003.jpg"
+      ]
     },
     {
       "sku": "LSR-004",
@@ -49,7 +57,347 @@
       "material": "MDF 3mm",
       "personalizable": false,
       "imagen": "img/LSR-004.jpg",
-      "imagenes": ["img/LSR-004.jpg"]
+      "imagenes": [
+        "img/LSR-004.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-009",
+      "nombre": "Bailarines",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Bailarines. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-009.jpg",
+      "imagenes": [
+        "img/LSR-009.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-010",
+      "nombre": "Bailarín",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Bailarín. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-010.jpg",
+      "imagenes": [
+        "img/LSR-010.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-011",
+      "nombre": "Bailarín",
+      "categoria": "Servilleteros",
+      "precio": 53,
+      "descripcion": "Bailarín. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-011.jpg",
+      "imagenes": [
+        "img/LSR-011.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-012",
+      "nombre": "Balancearce",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Balancearce. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-012.jpg",
+      "imagenes": [
+        "img/LSR-012.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-015",
+      "nombre": "Base de caramelo",
+      "categoria": "Eventos y Fiestas",
+      "precio": 155,
+      "descripcion": "Base de caramelo. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-015.jpg",
+      "imagenes": [
+        "img/LSR-015.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-016",
+      "nombre": "Carousel",
+      "categoria": "Servilleteros",
+      "precio": 98,
+      "descripcion": "Carousel. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-016.jpg",
+      "imagenes": [
+        "img/LSR-016.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-017",
+      "nombre": "Carro",
+      "categoria": "Eventos y Fiestas",
+      "precio": 313,
+      "descripcion": "Carro. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-017.jpg",
+      "imagenes": [
+        "img/LSR-017.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-018",
+      "nombre": "Carro",
+      "categoria": "Eventos y Fiestas",
+      "precio": 207,
+      "descripcion": "Carro. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-018.jpg",
+      "imagenes": [
+        "img/LSR-018.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-019",
+      "nombre": "Carro",
+      "categoria": "Eventos y Fiestas",
+      "precio": 200,
+      "descripcion": "Carro. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-019.jpg",
+      "imagenes": [
+        "img/LSR-019.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-020",
+      "nombre": "Carro con caballo",
+      "categoria": "Eventos y Fiestas",
+      "precio": 194,
+      "descripcion": "Carro con caballo. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-020.jpg",
+      "imagenes": [
+        "img/LSR-020.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-023",
+      "nombre": "Costura y vestido",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Costura y vestido. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-023.jpg",
+      "imagenes": [
+        "img/LSR-023.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-024",
+      "nombre": "Cupcake tower",
+      "categoria": "Eventos y Fiestas",
+      "precio": 50,
+      "descripcion": "Cupcake tower. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-024.jpg",
+      "imagenes": [
+        "img/LSR-024.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-025",
+      "nombre": "Enamorados",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Enamorados. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-025.jpg",
+      "imagenes": [
+        "img/LSR-025.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-026",
+      "nombre": "Enamorados",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Enamorados. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-026.jpg",
+      "imagenes": [
+        "img/LSR-026.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-028",
+      "nombre": "Hada",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Hada. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-028.jpg",
+      "imagenes": [
+        "img/LSR-028.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-030",
+      "nombre": "Mujer",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Mujer. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-030.jpg",
+      "imagenes": [
+        "img/LSR-030.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-031",
+      "nombre": "Mujer torre eiffel",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Mujer torre eiffel. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-031.jpg",
+      "imagenes": [
+        "img/LSR-031.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-033",
+      "nombre": "Nina",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Nina. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-033.jpg",
+      "imagenes": [
+        "img/LSR-033.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-034",
+      "nombre": "Porta caramelo",
+      "categoria": "Eventos y Fiestas",
+      "precio": 64,
+      "descripcion": "Porta caramelo. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-034.jpg",
+      "imagenes": [
+        "img/LSR-034.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-035",
+      "nombre": "Porta cupcakes",
+      "categoria": "Eventos y Fiestas",
+      "precio": 169,
+      "descripcion": "Porta cupcakes. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-035.jpg",
+      "imagenes": [
+        "img/LSR-035.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-036",
+      "nombre": "Propuesta matrimonio",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Propuesta matrimonio. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-036.jpg",
+      "imagenes": [
+        "img/LSR-036.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-039",
+      "nombre": "Stand caramelo",
+      "categoria": "Eventos y Fiestas",
+      "precio": 176,
+      "descripcion": "Stand caramelo. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-039.jpg",
+      "imagenes": [
+        "img/LSR-039.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-041",
+      "nombre": "Vaca",
+      "categoria": "Servilleteros",
+      "precio": 50,
+      "descripcion": "Vaca. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-041.jpg",
+      "imagenes": [
+        "img/LSR-041.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-005",
+      "nombre": "Carro de Mesa de Dulces",
+      "categoria": "Eventos y Fiestas",
+      "precio": 368,
+      "descripcion": "Carro decorativo de mesa de dulces (candy cart). Corte laser en MDF de 3mm, hecho en Mexico. Precio estimado, pendiente de confirmar medidas exactas.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-005.jpg",
+      "imagenes": [
+        "img/LSR-005.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-006",
+      "nombre": "Carrito Decorativo con Ruedas",
+      "categoria": "Eventos y Fiestas",
+      "precio": 186,
+      "descripcion": "Mini carreta decorativa con ruedas y compartimentos. Corte laser en MDF de 3mm, hecho en Mexico. Precio estimado, pendiente de confirmar medidas exactas.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/LSR-006.jpg",
+      "imagenes": [
+        "img/LSR-006.jpg"
+      ]
+    },
+    {
+      "sku": "LSR-007",
+      "nombre": "Portalapices 2 Niveles",
+      "categoria": "Escritorio",
+      "precio": 50,
+      "descripcion": "Portalapices de 2 niveles con ranuras. Corte laser en MDF de 3mm, hecho en Mexico.",
+      "material": "MDF 3mm",
+      "personalizable": false,
+      "imagen": "img/no-existe-aun.jpg",
+      "imagenes": [
+        "img/no-existe-aun.jpg"
+      ]
     }
   ]
 }
